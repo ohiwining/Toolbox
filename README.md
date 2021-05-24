@@ -8,7 +8,7 @@ Some were found on the Internet, others were created by me.
 
 源文件：source.pdf
 
-输出：resut.docx
+输出：result.docx
 
 依赖：pdfminer python-docx
 
@@ -22,6 +22,8 @@ Some were found on the Internet, others were created by me.
 
 py同目录下需有PPTPIC文件夹
 
+输出：PPT.docx
+
 依赖：requests python-docx
 
 
@@ -32,5 +34,7 @@ py同目录下需有PPTPIC文件夹
 使用前需修改参数：PPT第一张图片的地址、PPT最大页码
 
 py同目录下需有PPTPIC文件夹
+
+输出：PPT.docx
 
 依赖：requests python-docx
