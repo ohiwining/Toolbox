@@ -22,7 +22,7 @@ Some were found on the Internet, others were created by me.
 
 py同目录下需有PPTPIC文件夹
 
-输出：PPT.docx
+输出：PPT.docx,PPTPIC文件夹中出现对应PPT图片
 
 依赖：requests python-docx
 
@@ -35,6 +35,6 @@ py同目录下需有PPTPIC文件夹
 
 py同目录下需有PPTPIC文件夹
 
-输出：PPT.docx
+输出：PPT.docx,PPTPIC文件夹中出现对应PPT图片
 
 依赖：requests python-docx
