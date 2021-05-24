@@ -5,13 +5,14 @@ from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 from docx.shared import Inches
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from docx import Document
 
 # 配置文件
+FirstPngUrl = '''https://...ananas.chaoxing.com/.../1.png'''  # 第一个ppt图片的链接
 PAGES = 25
 Sender = "xxxx@163.com"  # 发邮件的地址
 passwd = "xxxx"  # 发送者邮件的授权密码
 SendTo = "xxxx@qq.com"  # 目标邮箱
-FirstPngUrl = '''https://...ananas.chaoxing.com/.../1.png'''  # 网页上第一个ppt图片的链接
 
 
 def Crawler():
